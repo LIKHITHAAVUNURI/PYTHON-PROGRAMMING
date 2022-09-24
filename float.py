@@ -1,0 +1,12 @@
+a=10.1
+b=-20.1
+print(type(a))
+print(type(b))
+a=20.1
+b=34.2
+print("a+b=",a+b)
+print("a+b=",a-b)
+print("a+b=",a*b)
+print("a+b=",a/b)
+print("a+b=",a//b)
+print("a+b=",a%b)
